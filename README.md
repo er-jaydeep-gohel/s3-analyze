@@ -1,2 +1,4 @@
 # s3-analyze
-Analyzing
+S3 Bucket Analyzing - Shell Script
+
+Dependency  - Jq
